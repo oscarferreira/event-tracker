@@ -2,7 +2,7 @@
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
         <can_edit_in_studio>true</can_edit_in_studio>
-        <enforce_license>none</enforce_license>
+        <enforce_license>log</enforce_license>
         <guided_setup_guid/>
         <hide_on_ui>false</hide_on_ui>
         <installed_as_dependency>false</installed_as_dependency>
@@ -14,13 +14,13 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>Events</name>
+        <name>Wish List</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
         <runtime_access_tracking>permissive</runtime_access_tracking>
         <scope>x_371555_events</scope>
         <scoped_administration>false</scoped_administration>
-        <short_description>Dev SNow Module</short_description>
+        <short_description>Create personal wish lists</short_description>
         <source>x_371555_events</source>
         <store_correlation_id/>
         <store_url/>
@@ -32,7 +32,7 @@
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
-        <user_role/>
+        <user_role display_value="x_371555_events.user" name="x_371555_events.user">de3ff9c9472651102dbb7ac8f36d4320</user_role>
         <vendor/>
         <vendor_prefix/>
         <version>1.0.0</version>
