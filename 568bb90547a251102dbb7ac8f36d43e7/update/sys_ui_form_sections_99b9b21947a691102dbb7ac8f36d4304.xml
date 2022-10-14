@@ -17,30 +17,30 @@
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-10-14 09:14:58</sys_created_on>
+            <sys_created_on>2022-10-14 09:25:23</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>15b9b21947a691102dbb7ac8f36d432e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>391c3e9947a691102dbb7ac8f36d4386</sys_id>
+            <sys_mod_count>3</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_371555_events_wish_item" name="x_371555_events_wish_item" sys_domain="global" view="Default view">99b9b21947a691102dbb7ac8f36d4304</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_371555_events_wish_item" sys_domain="global" view="Default view">d1b9b21947a691102dbb7ac8f36d4303</sys_ui_section>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_371555_events_wish_item" sys_domain="global" view="Default view">fd1c3e9947a691102dbb7ac8f36d4382</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-10-14 09:14:58</sys_updated_on>
+            <sys_updated_on>2022-10-14 09:27:58</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form_section action="INSERT_OR_UPDATE">
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-10-14 09:14:58</sys_created_on>
+            <sys_created_on>2022-10-14 09:25:23</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>11b9b21947a691102dbb7ac8f36d4332</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_id>791c3e9947a691102dbb7ac8f36d438a</sys_id>
+            <sys_mod_count>3</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_371555_events_wish_item" name="x_371555_events_wish_item" sys_domain="global" view="Default view">99b9b21947a691102dbb7ac8f36d4304</sys_ui_form>
-            <sys_ui_section caption="New Section" display_value="New Section" name="x_371555_events_wish_item" sys_domain="global" view="Default view">1db9b21947a691102dbb7ac8f36d4303</sys_ui_section>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_371555_events_wish_item" sys_domain="global" view="Default view">3d1c3e9947a691102dbb7ac8f36d4383</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-10-14 09:14:58</sys_updated_on>
+            <sys_updated_on>2022-10-14 09:27:58</sys_updated_on>
         </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_371555_events_wish_item</name>
